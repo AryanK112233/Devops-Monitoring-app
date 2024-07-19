@@ -115,5 +115,7 @@ aws configure
 
 ![alt text](images/terminal.png)
 
+![alt text](images/meters.png)
+
 ------------------
 ## Congratulations you have successfully created a Monitoring app  deployed in a Kubernetes cluster!!
